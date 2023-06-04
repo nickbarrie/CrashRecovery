@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch Game",
+        "request": "launch",
+        "mainClass": "crashRecovery.main.Game",
+        "console": "integratedTerminal",
+        "vmArgs": "-Djava.library.path=C:/Program Files/JARS/Libs/lwjgl/native/windows"
+
+      }
+    ]
+  }
+  
