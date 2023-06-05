@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: crashRecovery.main.Game
+Class-Path: libs/slick.jar libs/lwjgl.jar
+Created-By: 17.0.7 (Oracle Corporation)
+

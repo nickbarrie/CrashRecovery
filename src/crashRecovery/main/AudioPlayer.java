@@ -30,7 +30,7 @@ public class AudioPlayer {
 			soundMap.put("enemyDeath", new Sound("res/enemydeath.ogg"));// rpg
 			soundMap.put("fixingSpaceshipSfx", new Sound("res/fixingSpaceshipSfx.ogg"));
 			soundMap.put("flamethrower", new Sound("res/flamethrower.ogg"));
-			soundMap.put("hurt", new Sound("res/Hurt.ogg"));
+			soundMap.put("hurt", new Sound("res/hurt.ogg"));
 			soundMap.put("itemPickUp", new Sound("res/itemPickupNew.ogg"));
 			soundMap.put("weaponPickUp", new Sound("res/weaponPickup.ogg"));
 			soundMap.put("saw", new Sound("res/sawEnemySfx.ogg"));

@@ -128,7 +128,7 @@ public class Game extends Canvas implements Runnable {
 				if (!paused && gameState == STATE.Story) {
 					gameTimer++;
 				}
-				System.out.println("Tick: " + frames);
+				//System.out.println("Tick: " + frames);
 				frames = 0;
 			}
 
