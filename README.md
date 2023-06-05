@@ -1,5 +1,5 @@
 # CrashRecovery
-Your ship has crashed on a planet it is your job to make the repairs and get back to space!
+Your ship has crashed on a planet. It is your job to make the repairs and get back to space!
 
 
 # Photos
