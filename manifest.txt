@@ -1,2 +1,0 @@
-Main-Class: crashRecovery.main.Game
-Class-Path: lib/jinput.jar lib/slick.jar lib/jorbis-0.0.15.jar lib/lwjgl.jar 

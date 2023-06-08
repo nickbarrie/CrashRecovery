@@ -45,7 +45,7 @@ public class Game extends Canvas implements Runnable {
 	public Game() {
 		BufferedImageLoader loader = new BufferedImageLoader();
 
-		sprite_Sheet = loader.loadImage("/small_sprite.png");
+		sprite_Sheet = loader.loadImage("/res/small_sprite.png");
 
 		handler = new Handler(this);
 		hud = new HUD(this);

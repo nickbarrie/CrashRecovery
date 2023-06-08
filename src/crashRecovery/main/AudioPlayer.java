@@ -20,7 +20,7 @@ public class AudioPlayer {
 	public static HashMap<Integer, String> levelMusic = new HashMap<Integer, String>();
 	public static void load() {
 		try {
-			soundMap.put("click", new Sound("res/blipSelect.ogg"));//menu noise
+			soundMap.put("click", new Sound("/res/blipSelect.ogg"));//menu noise
 			soundMap.put("shot", new Sound("res/laserShoot.ogg"));// pistol shoot
 			soundMap.put("explosion", new Sound("res/explosion.ogg"));// rpg
 			soundMap.put("bossDeath", new Sound("res/explosion2.ogg"));// rpg
