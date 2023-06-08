@@ -29,7 +29,9 @@ jar tf CrashRecovery.jar
 #to execute jar run
 java -Djava.library.path=lib -jar CrashRecovery.jar
 ```
+**5. Adding Font** 
 
+The game was made using the Silkscreen font. The game works without, but if you move the font from the font folder to your windows fonts folder things look a bit nicer.
 
 
 # Photos
