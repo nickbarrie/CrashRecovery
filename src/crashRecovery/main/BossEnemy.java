@@ -52,7 +52,7 @@ public class BossEnemy extends GameObject {
 		player = handler.getPlayer();
 		images.add(ss.grabImage(Image.BossHover));
 		images.add(ss.grabImage(Image.BossHover2));
-		health = 150;// when below 0 enemy will be deleted
+		health = 1500;// when below 0 enemy will be deleted
 		damageFlash = ss.grabImage(Image.BossHit);
 		xBound = 192;
 		yBound = 192;
