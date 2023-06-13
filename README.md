@@ -33,9 +33,7 @@ java -Djava.library.path=lib -jar CrashRecovery.jar
 
 The game was made using the Silkscreen font. The game works without, but if you move the font from the font folder to your windows fonts folder things look a bit nicer.
 
+**6. Click to Watch the Trailer**
+[![Watch the Trailer](https://github.com/nitch-tech/CrashRecovery/blob/master/photos/CrashRecoverySnaps.PNG)](https://www.youtube.com/watch?v=WrJSeY0kg90)
 
-# Photos
-![Example Photo](https://github.com/nitch-tech/CrashRecovery/blob/master/photos/CrashRecoverySnaps.PNG)
-![Example Photo](https://github.com/nitch-tech/CrashRecovery/blob/master/photos/Cras.PNG)
-![Example Photo](https://github.com/nitch-tech/CrashRecovery/blob/master/photos/CRASH.PNG)
-![Example Photo](https://github.com/nitch-tech/CrashRecovery/blob/master/photos/wAVE.PNG)
+
